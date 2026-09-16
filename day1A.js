@@ -1,0 +1,10 @@
+let name = "Raj";
+let age = 20;
+let course = "light Blue";
+let college = "Sri Balaji";
+let isStudent = true;
+console.log(`My name is ${name}.`);
+console.log(`I am ${age} years old.`);
+console.log(`I am studying ${course}.`);
+console.log(`My collage is ${college}.`);
+console.log(isStudent);
